@@ -1,3 +1,8 @@
-.venv
-.vscode
+/target/
+*.pdb
+*.rlib
+*.exe
+*.dll
+.venv/
 __pycache__
+.vscode
